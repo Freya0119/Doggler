@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/activity_grid_list.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/activity_horizental_list.xml" value="0.17806484295845998" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/activity_vertical_list.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/grid_list_item.xml" value="0.17755825734549138" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/test.xml" value="0.35688405797101447" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/veritical_horizental_list_item.xml" value="0.1" />
+        <entry key="..\:/Users/freya0119/Desktop/KotlinProject/Dogglers/app/src/main/res/layout/vertical_list_item.xml" value="0.14351851851851852" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3515625" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
